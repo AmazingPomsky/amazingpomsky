@@ -1,0 +1,50 @@
+body {
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+}
+h1 {
+	display: block;
+	color: #4A5B96;
+	width: 249px;
+	height: 82px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.menu {
+	background-color: #C5C5C5;	
+}
+
+a {
+	text-decoration: none;
+	color: #fff;
+}
+.main {
+	width: 1161px;
+	height: 651px;
+	background-image: url("Background Picture.png");
+	margin-right:auto;
+	margin-left:auto;
+}
+
+img {
+	display: block;
+	width: 260px;
+	height: 260px;
+	margin-left: auto;
+	margin-right: auto;
+	border-width: 4px;
+	border-color: grey;
+}
+
+p {
+	width: 664px;
+	height: 195px;
+	margin-left: auto;
+	margin-right: auto;
+	top: 506px;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	font-style: normal;
+	font-weight: 500;
+	font-size: 14px;
+	text-align: justify;
+	color: #6c6c6c;
+}
