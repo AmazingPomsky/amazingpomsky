@@ -11,11 +11,15 @@ h1 {
 }
 .menu {
 	background-color: #C5C5C5;	
+	
+	
 }
 
 a {
 	text-decoration: none;
 	color: #fff;
+	margin-left: 300px;
+	
 }
 .main {
 	width: 1161px;
@@ -47,4 +51,10 @@ p {
 	font-size: 14px;
 	text-align: justify;
 	color: #6c6c6c;
+}
+
+
+.youtube {
+	margin-left: 550px
+		;
 }
